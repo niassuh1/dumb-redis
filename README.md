@@ -1,6 +1,6 @@
 # Dumb Redis
 
-Dummy project which accepts connection from redis, relied on [this tutorial](https://www.build-redis-from-scratch.dev/en/resp-reader)
+Dummy project which accepts connection from redis, I highlt recommend reading [this tutorial](https://www.build-redis-from-scratch.dev/en/resp-reader)
 
 
 ## Getting Started
